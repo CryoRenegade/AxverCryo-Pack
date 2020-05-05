@@ -1,0 +1,32 @@
+{
+  "astralsorcery:root": {
+    "criteria": {
+      "astralsorcery_present": "2020-05-04 14:22:24 -0600"
+    },
+    "done": true
+  },
+  "tombstone:tutorial/root": {
+    "criteria": {
+      "auto": "2020-05-04 14:22:20 -0600"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_yellow_flower": "2020-05-04 14:22:38 -0600"
+    },
+    "done": true
+  },
+  "twilightforest:alt/compat/tconstruct": {
+    "criteria": {
+      "book": "2020-05-04 14:22:19 -0600"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "ocean": "2020-05-04 14:22:20 -0600"
+    },
+    "done": false
+  }
+}
